@@ -2,5 +2,5 @@
 
 Rushmore
 Bob
-bagels
-waffels
+Marvel
+DC
